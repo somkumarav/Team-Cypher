@@ -34,7 +34,7 @@ const ar = [
     photo: './assets/vrinda.jpeg',
   },
   {
-    name: 'Vishal K S',
+    name: 'Visal K S',
     dob: '20 March 2002',
     location: 'Mundoor',
     achivements: 'Arts Captain',
