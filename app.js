@@ -44,8 +44,8 @@ const ar = [
   {
     name: 'Akhil K',
     dob: '14 December 1999',
-    location: 'Guruvayoor',
-    achivements: 'Web Developer',
+    location: 'Akamala',
+    achivements: 'Android Developer',
     instagram: 'https://www.instagram.com/comrade______________________/',
     photo: './assets/akhil.jpeg',
   },
